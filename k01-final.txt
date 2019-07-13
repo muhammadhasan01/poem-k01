@@ -3,6 +3,7 @@ Tempat cahaya selalu benderang
 [... 2 baris]
 Tempat udara selalu bersih
 Termpat angin selalu nikmat
+for(int i=2997;i<=3000;i++)print("I Love U " + str(i))
 I Love U 2997
 I Love U 2998
 I Love U 2999
